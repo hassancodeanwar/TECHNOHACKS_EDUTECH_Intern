@@ -12,7 +12,7 @@ This project aims to predict the likelihood of diabetes in individuals based on 
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
+- [Author](#Author)
 
 ## Dataset
 
@@ -65,10 +65,6 @@ The project achieves an accuracy of approximately 80.52% in predicting diabetes 
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository, create a new branch, make your changes, and submit a pull request.
 
-## License
+## Author
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-You can modify this README file to fit the specifics of your project. It provides essential information for others to understand your project's purpose, how to use it, and how to contribute.
+Hassan Anwar
