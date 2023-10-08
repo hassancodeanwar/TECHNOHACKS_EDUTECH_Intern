@@ -2,7 +2,7 @@
 # Iris Flower Classification
 
 Author: Hassan Anwar
-Date: [Insert Date]
+
 
 ## Project Overview
 
@@ -53,9 +53,7 @@ cd iris-flower-classification
 
 The SVM classifier achieves an accuracy of 100% on the test data, demonstrating its effectiveness in classifying Iris flowers into their respective species.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
